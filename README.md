@@ -12,6 +12,7 @@ As of now, `norns-tui` has three functions.
 For now, list of cards and commands used in function 1 and 3 respectively have been defined manually. May be in the future I can think of making this a
 bit more dynamic.
 
+Note: This only works on Juniper devices.
 
 ### `norns-tui` in action
 
